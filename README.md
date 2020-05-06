@@ -1,2 +1,2 @@
 # aws-tools
-A repository of AWS CLI tools written in Python.
+A folder of AWS tools written in Python.
